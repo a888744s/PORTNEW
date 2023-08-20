@@ -1,0 +1,66 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e5e5e5;
+}
+
+header{
+    background-color:#383b3f;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+head{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: rgb(255, 255, 255)fff;
+}
+
+main{
+    padding: 2rem;
+}
+
+
+.detail{
+    margin: 0%;
+}
+
+.chart-section{
+    display: grid;
+    margin: auto;
+    max-width: 50%;
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgb(255, 255, 255);
+}
+
+
+
+.circlechart{
+    margin-left: 15%;
+    width: 70%;
+}
+
+
+.container{
+    text-align: center;
+    padding: 100px;
+    color: #ffffff;
+}
+  
+h1{
+    color:#ffffff;
+}
+
+h2 {
+    color: #000000;
+    text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p{
+    color: #ffffff;
+    font-style: italic;
+}
